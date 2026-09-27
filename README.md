@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Mateusz Gołąbek 👋
 
-<!--
-**matgolabek/matgolabek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matgolabek/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](#-publications)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:matigolabek2000@gmail.com)
 
-Here are some ideas to get you started:
+I am a **PhD Student in Automation Control** at AGH University of Krakow with 2+ years of R&D industry experience at **ABB**. My work focuses on **UAV swarm autonomy, computer vision, deep learning, and adaptive sensor data fusion on SoC FPGA platforms**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Research & Key Focus Areas
+- 🛸 **UAV Swarm Autonomy:** Dynamic navigation, heuristic potential fields, obstacle avoidance, and communication maintenance.
+- 👁️ **Computer Vision & Deep Learning:** Spatio-temporal networks (MoViNet), video classification, frame-level feature extraction, and multi-spectral image fusion (Vision + Thermal).
+- ⚡ **Embedded Systems & Edge Computing:** Real-time acceleration on SoC FPGA platforms (Vitis AI, VHDL/Verilog) and Hardware-in-the-Loop (HIL) testing setups.
+
+---
+
+### 🏆 Key Accomplishments
+- **1st Place in Simulation & 2nd Place in Hardware** @ **ICUAS 2026** — Dynamic navigation and threat tracking for coordinated UAV swarms while maintaining active network connectivity[cite: 1].
+- **1st Place** @ **WACV 2026 (IWDD Contest)** — Designed a custom spatio-temporal video classification architecture for illegal waste dumping detection with minimal GPU memory footprint[cite: 1].
+- **1st Place** @ 63rd & 62nd SKN AGH Metallurgical Conferences for papers on autonomous UAV swarm threat detection[cite: 1].
+
+---
+
+### 🛠 Tech Stack & Tools
+
+**Languages & Frameworks:**
+`Python` • `C/C++` • `PyTorch` • `ROS2` • `MATLAB / Simulink` • `VHDL / Verilog`
+
+**Domain & Tools:**
+`Computer Vision` • `Deep Learning` • `SoC FPGA (Vitis AI)` • `PLC Programming` • `HIL Testing` • `Git`
+
+---
+
+### 📜 Publications
+1. **M. Gołąbek**, K. Jeziorek, T. Kryjak, *"Real-Time Illegal Waste Dumping Detection Using Causal Mobile Video Networks with Frame-Level Feature Extraction"*, SPA 2026[cite: 1].
+2. **M. Gołąbek**, K. Jędrzejko, M. Wasala, H. Szolc, T. Kryjak, *"Autonomous Threat Detection in Urban Environments Using a UAV Swarm with a Communication Network Maintenance"*, EuroDroS 2026[cite: 1].
+
+---
+
+### 📊 GitHub Stats
+![Mateusz's GitHub stats](https://github-readme-stats.vercel.app/api?username=matgolabek&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matgolabek&layout=compact&theme=radial)
