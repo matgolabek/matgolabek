@@ -1,8 +1,5 @@
 # Hi there, I'm Mateusz Gołąbek 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matgolabek/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:matigolabek2000@gmail.com)
-
 I am a **PhD Student in Automation Control** at AGH University of Krakow with 2+ years of R&D industry experience at **ABB**. My work focuses on **UAV swarm autonomy, computer vision, deep learning, and adaptive sensor data fusion on SoC FPGA platforms**.
 
 ---
